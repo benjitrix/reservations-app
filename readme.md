@@ -146,5 +146,8 @@ To use the app: admin
 9.	To delete a reservation, enter the seat number to be deleted in the input box above the “Delete” button, e.g. b13, click on “Delete” button.
 10.	To change a reservation, enter the seat to be changed, e.g. c13, and the new seat number, e.g. a23, in the indicated respective input boxes.
 
-#   r e s e r v a t i o n s - a p p  
- 
+# reservations-app
+![Home Page](/images_md/HomePage.jpg)
+![Home Page](/images_md/User reservation page.jpg)
+![Home Page](/images_md/Admin page.jpg)
+Format: ![Alt Text](url)
