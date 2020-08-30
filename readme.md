@@ -148,6 +148,5 @@ To use the app: admin
 
 # reservations-app
 ![Home Page](https://github.com/benjitrix/reservations-app/blob/master/images_md/HomePage.JPG)
-![Home Page](/images_md/User reservation page.jpg)
-![Home Page](/images_md/Admin page.jpg)
-Format: ![Alt Text](url)
+![User Page](https://github.com/benjitrix/reservations-app/blob/master/images_md/User%20reservation%20page.JPG)
+![Admin Page](https://github.com/benjitrix/reservations-app/blob/master/images_md/Admin%20page.JPG)
