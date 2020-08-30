@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <form
+    onSubmit={[Function]}
+  >
+    <h3>
+      Please sign in
+    </h3>
+    <label
+      className="sr-only"
+      htmlFor="username"
+    >
+      Username: 
+    </label>
+    <input
+      className="form-control"
+      name="username"
+      onChange={[Function]}
+      placeholder="Enter username"
+      type="text"
+    />
+    <input
+      className="form-control"
+      name="password"
+      onChange={[Function]}
+      placeholder="Enter password"
+      type="password"
+    />
+    <button
+      className="btn btn-lg btn-primary btn-block"
+      type="submit"
+    >
+      Log in
+    </button>
+  </form>
+</div>
+`;

@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Login /> with no props <Login /> with no props should match the snapshot 1`] = `"<div><form><h3>Please sign in</h3><label for=\\"username\\" class=\\"sr-only\\">Username: </label><input type=\\"text\\" name=\\"username\\" class=\\"form-control\\" placeholder=\\"Enter username\\"/><input type=\\"password\\" name=\\"password\\" class=\\"form-control\\" placeholder=\\"Enter password\\"/><button type=\\"submit\\" class=\\"btn btn-lg btn-primary btn-block\\">Log in</button></form></div>"`;
+
+exports[`<Login /> with no props should match the snapshot 1`] = `"<div><form><h3>Please sign in</h3><label for=\\"username\\" class=\\"sr-only\\">Username: </label><input type=\\"text\\" name=\\"username\\" class=\\"form-control\\" placeholder=\\"Enter username\\"/><input type=\\"password\\" name=\\"password\\" class=\\"form-control\\" placeholder=\\"Enter password\\"/><button type=\\"submit\\" class=\\"btn btn-lg btn-primary btn-block\\">Log in</button></form></div>"`;

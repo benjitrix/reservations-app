@@ -1,0 +1,41 @@
+.row-1 {
+  margin-bottom: 20px;
+}
+
+.reservation {
+  list-style: square;
+  margin-left: 15px;
+}
+
+.colour-key {
+  margin-bottom: -9px;
+}
+
+.key {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.meaning {
+  display: inline-block;
+}
+
+.meaning h6 {
+  margin-left: 3px;
+}
+
+.vacant {
+  
+  background: #bbb;
+}
+
+.reserved {
+
+  background: dodgerblue;
+}
+
+.admin {
+
+  background: green;
+}
