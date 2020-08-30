@@ -147,7 +147,7 @@ To use the app: admin
 10.	To change a reservation, enter the seat to be changed, e.g. c13, and the new seat number, e.g. a23, in the indicated respective input boxes.
 
 # reservations-app
-![Home Page](/images_md/HomePage.jpg)
+![Home Page](https://github.com/benjitrix/reservations-app/blob/master/images_md/HomePage.JPG)
 ![Home Page](/images_md/User reservation page.jpg)
 ![Home Page](/images_md/Admin page.jpg)
 Format: ![Alt Text](url)
