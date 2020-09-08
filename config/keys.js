@@ -13,5 +13,5 @@ module.exports = {
   },
   mongoURI:
     "******",
-  jwtSecret: "okechukwu",
+  jwtSecret: "*****",
 };
